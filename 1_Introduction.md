@@ -16,10 +16,15 @@
    
   
 ## Engineering Models in Optimization  
->>  
+>> Engineering models as analysis models.  
+>> A Model requires some inputs in order to make calculations that are called analysis variables. 
+>> Analysis variables include design variables (the variables we can change), material properties, boundary conditions, etc.  
+>> The analysis model computes outputs called analysis functions.  
+>> These functions represents what we need to determine the "goodness" of a design.   
   
 ## Models and Optimization by Trial-and-Error  
->>  
+>> Determining how to improve the design is the job of the designer.  
+>> To improve the design : specifies a set of inputs, evaluate the models, examines the output .... not satisfactory ....proposes a new set of inputs, evaluated, repeated many times.    
   
 ## Optimization with Computer Algorithms  
 >>  
