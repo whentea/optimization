@@ -1,4 +1,7 @@
-# Mathematical Modelling
+# Mathematical Modelling  
+
+Modelling Consideration  
+Proper Scalling of the Model Variables and Functions
 
 
 
