@@ -1,4 +1,9 @@
 # Unconstrained Optimization
+  
+    
+Scalar quantity  
+Vector  
+Matrices  
 
 
 
